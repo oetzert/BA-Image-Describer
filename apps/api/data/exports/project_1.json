@@ -1,0 +1,150 @@
+{
+  "project_id": 1,
+  "updated_at": "2026-02-28T16:20:03.377078Z",
+  "records": [
+    {
+      "project_id": 1,
+      "image_id": 39,
+      "run_id": 39,
+      "filename": "__camera__rear_left__image_raw__compressed-1753366515554409920.webp",
+      "sha256": "ad76cafdb8e302d74dfe7e6f4df9928841ccf65e9a6be0cd679529aa5ffbdf48",
+      "storage_path": "./data/uploads/ad76cafdb8e302d74dfe7e6f4df9928841ccf65e9a6be0cd679529aa5ffbdf48___camera__rear_left__image_raw__compressed-1753366515554409920.webp",
+      "prompt": "You are a technical observer operating within the context of an agricultural project.\r\n\r\nYour task is to describe images captured as part of this project objectively and precisely from the perspective of a camera mounted on a tractor.\r\nDescribe only what is clearly visible in the image.\r\nDo not make any assumptions about intentions, states, or future events.\r\nIf something is not clearly recognizable, explicitly write “not clearly recognizable”.\r\n\r\nStructure the description into the following sections:\r\n\r\nCamera perspective and viewing direction\r\n\r\nVisible objects and machines (including their position in the image)\r\n\r\nPeople (if visible: position, clothing, activity – only what is visible)\r\n\r\nEnvironment (indoor/outdoor, hall, ground, walls, doors)\r\n\r\nNotable features or potential obstacles\r\n\r\nVisual limitations (darkness, occlusion, image noise)\r\n\r\nUse neutral, technical language.",
+      "model": "gpt-4o",
+      "params": {
+        "temperature": 0.1,
+        "max_tokens": 400
+      },
+      "output_text": "**Camera perspective and viewing direction:**\nThe camera is mounted on a tractor, positioned at a high angle, looking downward.\n\n**Visible objects and machines:**\n- A large orange container filled with white bags is located centrally in the image.\n- A green machine or equipment is partially visible on the left side.\n- Various pallets and boxes are scattered around the area.\n\n**People:**\n- No people are visible in the image.\n\n**Environment:**\n- Indoor setting, possibly a storage or equipment room.\n- The ground appears to be concrete or packed earth.\n- Walls are visible, with some shelving and storage units on the right side.\n\n**Notable features or potential obstacles:**\n- The orange container and scattered pallets may pose as obstacles.\n- Various items on the floor could impede movement.\n\n**Visual limitations:**\n- The image is dark, limiting visibility.\n- Some areas are not clearly recognizable due to low light conditions.",
+      "tokens_in": 1273,
+      "tokens_out": 187,
+      "created_at": "2026-02-28T16:19:07.433154Z"
+    },
+    {
+      "project_id": 1,
+      "image_id": 40,
+      "run_id": 40,
+      "filename": "__camera__rear_mid__image_raw__compressed-1753366515561986080.webp",
+      "sha256": "fdeb117af09b743935fbc53251f2c02c7246eaac30f562736becb0b0078f2eae",
+      "storage_path": "./data/uploads/fdeb117af09b743935fbc53251f2c02c7246eaac30f562736becb0b0078f2eae___camera__rear_mid__image_raw__compressed-1753366515561986080.webp",
+      "prompt": "You are a technical observer operating within the context of an agricultural project.\r\n\r\nYour task is to describe images captured as part of this project objectively and precisely from the perspective of a camera mounted on a tractor.\r\nDescribe only what is clearly visible in the image.\r\nDo not make any assumptions about intentions, states, or future events.\r\nIf something is not clearly recognizable, explicitly write “not clearly recognizable”.\r\n\r\nStructure the description into the following sections:\r\n\r\nCamera perspective and viewing direction\r\n\r\nVisible objects and machines (including their position in the image)\r\n\r\nPeople (if visible: position, clothing, activity – only what is visible)\r\n\r\nEnvironment (indoor/outdoor, hall, ground, walls, doors)\r\n\r\nNotable features or potential obstacles\r\n\r\nVisual limitations (darkness, occlusion, image noise)\r\n\r\nUse neutral, technical language.",
+      "model": "gpt-4o",
+      "params": {
+        "temperature": 0.1,
+        "max_tokens": 400
+      },
+      "output_text": "**Camera perspective and viewing direction:**\n\nThe camera is mounted on a tractor, facing forward.\n\n**Visible objects and machines:**\n\n- A large green agricultural machine is prominently visible on the left side of the image.\n- Additional machinery is visible in the background on the right side.\n\n**People:**\n\n- Not clearly recognizable.\n\n**Environment:**\n\n- Indoor setting, possibly a storage or maintenance area.\n- The ground appears to be dirt or gravel.\n- Walls are visible in the background, suggesting an enclosed space.\n\n**Notable features or potential obstacles:**\n\n- The machinery on the left is large and may obstruct movement.\n- Limited space between the machinery and the walls.\n\n**Visual limitations:**\n\n- The image is dark, reducing visibility.\n- Some areas are occluded by machinery.\n- Image noise is present, affecting clarity.",
+      "tokens_in": 1273,
+      "tokens_out": 168,
+      "created_at": "2026-02-28T16:19:16.587722Z"
+    },
+    {
+      "project_id": 1,
+      "image_id": 41,
+      "run_id": 41,
+      "filename": "__camera__rear_right__image_raw__compressed-1753366515566706752.webp",
+      "sha256": "67ad44fd8923ffc4a1e3ec06d1ef96e0c5eae8bea5f002822ad8ec39518c0241",
+      "storage_path": "./data/uploads/67ad44fd8923ffc4a1e3ec06d1ef96e0c5eae8bea5f002822ad8ec39518c0241___camera__rear_right__image_raw__compressed-1753366515566706752.webp",
+      "prompt": "You are a technical observer operating within the context of an agricultural project.\r\n\r\nYour task is to describe images captured as part of this project objectively and precisely from the perspective of a camera mounted on a tractor.\r\nDescribe only what is clearly visible in the image.\r\nDo not make any assumptions about intentions, states, or future events.\r\nIf something is not clearly recognizable, explicitly write “not clearly recognizable”.\r\n\r\nStructure the description into the following sections:\r\n\r\nCamera perspective and viewing direction\r\n\r\nVisible objects and machines (including their position in the image)\r\n\r\nPeople (if visible: position, clothing, activity – only what is visible)\r\n\r\nEnvironment (indoor/outdoor, hall, ground, walls, doors)\r\n\r\nNotable features or potential obstacles\r\n\r\nVisual limitations (darkness, occlusion, image noise)\r\n\r\nUse neutral, technical language.",
+      "model": "gpt-4o",
+      "params": {
+        "temperature": 0.1,
+        "max_tokens": 400
+      },
+      "output_text": "**Camera perspective and viewing direction:**\nThe camera is mounted on a tractor, viewing slightly downward and to the left.\n\n**Visible objects and machines:**\nA large green agricultural machine is visible on the left side of the image. It has a wheel partially visible at the bottom left. Another piece of machinery with green and orange components is visible on the right side, with hoses and cables attached.\n\n**People:**\nNo people are visible in the image.\n\n**Environment:**\nThe setting is indoor, likely a barn or storage area. The ground appears to be dirt or a similar material.\n\n**Notable features or potential obstacles:**\nThere are multiple hoses and cables that could pose as obstacles if not properly managed.\n\n**Visual limitations:**\nThe image is somewhat dark, which may limit visibility of finer details.",
+      "tokens_in": 1273,
+      "tokens_out": 163,
+      "created_at": "2026-02-28T16:19:27.078903Z"
+    },
+    {
+      "project_id": 1,
+      "image_id": 42,
+      "run_id": 42,
+      "filename": "__camera__side_left__image_raw__compressed-1753366515556919072.webp",
+      "sha256": "abf546440414728a993a2e28a2a65f3b3b5a49817e8fc9d38a5b686c06e4a50e",
+      "storage_path": "./data/uploads/abf546440414728a993a2e28a2a65f3b3b5a49817e8fc9d38a5b686c06e4a50e___camera__side_left__image_raw__compressed-1753366515556919072.webp",
+      "prompt": "You are a technical observer operating within the context of an agricultural project.\r\n\r\nYour task is to describe images captured as part of this project objectively and precisely from the perspective of a camera mounted on a tractor.\r\nDescribe only what is clearly visible in the image.\r\nDo not make any assumptions about intentions, states, or future events.\r\nIf something is not clearly recognizable, explicitly write “not clearly recognizable”.\r\n\r\nStructure the description into the following sections:\r\n\r\nCamera perspective and viewing direction\r\n\r\nVisible objects and machines (including their position in the image)\r\n\r\nPeople (if visible: position, clothing, activity – only what is visible)\r\n\r\nEnvironment (indoor/outdoor, hall, ground, walls, doors)\r\n\r\nNotable features or potential obstacles\r\n\r\nVisual limitations (darkness, occlusion, image noise)\r\n\r\nUse neutral, technical language.",
+      "model": "gpt-4o",
+      "params": {
+        "temperature": 0.1,
+        "max_tokens": 400
+      },
+      "output_text": "**Camera perspective and viewing direction:**\nThe camera is mounted on a tractor, positioned at a high angle, looking downward into an indoor space.\n\n**Visible objects and machines:**\n- A large container or bin is visible in the upper right quadrant of the image.\n- Various tools and materials, including a wheelbarrow and bags, are located in the upper left quadrant.\n- A machine or equipment is partially visible on the right side of the image.\n\n**People:**\n- One person is visible in the lower right quadrant, wearing a dark top and light-colored shoes, standing near the tractor.\n\n**Environment:**\n- The setting is indoor, possibly a workshop or storage area.\n- The ground appears to be concrete or packed dirt.\n- Walls are visible on the right side, with a wooden door partially visible.\n\n**Notable features or potential obstacles:**\n- The area is cluttered with various materials and equipment, which may pose obstacles.\n\n**Visual limitations:**\n- The image is dark, with limited visibility due to low lighting conditions.",
+      "tokens_in": 1273,
+      "tokens_out": 211,
+      "created_at": "2026-02-28T16:19:37.455414Z"
+    },
+    {
+      "project_id": 1,
+      "image_id": 43,
+      "run_id": 43,
+      "filename": "__camera__side_right__image_raw__compressed-1753366515547210848.webp",
+      "sha256": "59fcf588fa0781ac774083cf8cae4804a81d25526869d9e9c4328bc959c2a0ac",
+      "storage_path": "./data/uploads/59fcf588fa0781ac774083cf8cae4804a81d25526869d9e9c4328bc959c2a0ac___camera__side_right__image_raw__compressed-1753366515547210848.webp",
+      "prompt": "You are a technical observer operating within the context of an agricultural project.\r\n\r\nYour task is to describe images captured as part of this project objectively and precisely from the perspective of a camera mounted on a tractor.\r\nDescribe only what is clearly visible in the image.\r\nDo not make any assumptions about intentions, states, or future events.\r\nIf something is not clearly recognizable, explicitly write “not clearly recognizable”.\r\n\r\nStructure the description into the following sections:\r\n\r\nCamera perspective and viewing direction\r\n\r\nVisible objects and machines (including their position in the image)\r\n\r\nPeople (if visible: position, clothing, activity – only what is visible)\r\n\r\nEnvironment (indoor/outdoor, hall, ground, walls, doors)\r\n\r\nNotable features or potential obstacles\r\n\r\nVisual limitations (darkness, occlusion, image noise)\r\n\r\nUse neutral, technical language.",
+      "model": "gpt-4o",
+      "params": {
+        "temperature": 0.1,
+        "max_tokens": 400
+      },
+      "output_text": "**Camera perspective and viewing direction:**\n\nThe camera is mounted on a tractor, facing forward and slightly downward.\n\n**Visible objects and machines:**\n\nA large green agricultural machine is visible on the right side of the image, with a prominent wheel near the center. Part of the tractor is visible at the bottom of the image.\n\n**People:**\n\nNo people are visible in the image.\n\n**Environment:**\n\nThe setting is indoor, likely a barn or storage area. The ground is dirt or concrete. There are walls on the left and right, with a partially open door on the left side leading outside.\n\n**Notable features or potential obstacles:**\n\nA small pile of material is on the ground near the center-left of the image.\n\n**Visual limitations:**\n\nThe image has some noise, and the lighting is dim, particularly in the indoor area.",
+      "tokens_in": 1273,
+      "tokens_out": 171,
+      "created_at": "2026-02-28T16:19:45.076985Z"
+    },
+    {
+      "project_id": 1,
+      "image_id": 44,
+      "run_id": 44,
+      "filename": "__zed__zed_node__left_raw__image_raw_color__compressed-1753366515563259168.webp",
+      "sha256": "f4fae2d8f2d16ed4b0ab805f1a573deae240baebeb4ccabad03e3ee177b64182",
+      "storage_path": "./data/uploads/f4fae2d8f2d16ed4b0ab805f1a573deae240baebeb4ccabad03e3ee177b64182___zed__zed_node__left_raw__image_raw_color__compressed-1753366515563259168.webp",
+      "prompt": "You are a technical observer operating within the context of an agricultural project.\r\n\r\nYour task is to describe images captured as part of this project objectively and precisely from the perspective of a camera mounted on a tractor.\r\nDescribe only what is clearly visible in the image.\r\nDo not make any assumptions about intentions, states, or future events.\r\nIf something is not clearly recognizable, explicitly write “not clearly recognizable”.\r\n\r\nStructure the description into the following sections:\r\n\r\nCamera perspective and viewing direction\r\n\r\nVisible objects and machines (including their position in the image)\r\n\r\nPeople (if visible: position, clothing, activity – only what is visible)\r\n\r\nEnvironment (indoor/outdoor, hall, ground, walls, doors)\r\n\r\nNotable features or potential obstacles\r\n\r\nVisual limitations (darkness, occlusion, image noise)\r\n\r\nUse neutral, technical language.",
+      "model": "gpt-4o",
+      "params": {
+        "temperature": 0.1,
+        "max_tokens": 400
+      },
+      "output_text": "**Camera perspective and viewing direction:**\nThe camera is mounted on a tractor, facing forward.\n\n**Visible objects and machines:**\n- The front part of the tractor is visible in the lower center of the image.\n- A large yellow door is visible on the left side of the image.\n- A metal roller door is visible on the right side of the image.\n- Several buckets and containers are positioned near the yellow door.\n- A small table or stand with a dark object on top is located to the left of the yellow door.\n- Various tools or elongated objects are leaning against the wall near the yellow door.\n\n**People:**\n- No people are visible in the image.\n\n**Environment:**\n- The setting is indoor, possibly a garage or storage area.\n- The ground appears to be concrete.\n- Walls are made of brick or a similar material.\n\n**Notable features or potential obstacles:**\n- The doors may serve as entry or exit points.\n- The buckets and tools near the door could be potential obstacles.\n\n**Visual limitations:**\n- The image has some areas of shadow, particularly near the edges.\n- The lighting is uneven, with brighter light near the doors.",
+      "tokens_in": 593,
+      "tokens_out": 238,
+      "created_at": "2026-02-28T16:19:56.195980Z"
+    },
+    {
+      "project_id": 1,
+      "image_id": 38,
+      "run_id": 38,
+      "filename": "__zed__zed_node__right_raw__image_raw_color__compressed-1753366515565333120.webp",
+      "sha256": "e54f45c4b79f6e0e890667a9e5d9f1fbf452addfbc4bd805d3e04783e601e6b3",
+      "storage_path": "./data/uploads/e54f45c4b79f6e0e890667a9e5d9f1fbf452addfbc4bd805d3e04783e601e6b3___zed__zed_node__right_raw__image_raw_color__compressed-1753366515565333120.webp",
+      "prompt": "You are a technical observer operating within the context of an agricultural project.\r\n\r\nYour task is to describe images captured as part of this project objectively and precisely from the perspective of a camera mounted on a tractor.\r\nDescribe only what is clearly visible in the image.\r\nDo not make any assumptions about intentions, states, or future events.\r\nIf something is not clearly recognizable, explicitly write “not clearly recognizable”.\r\n\r\nStructure the description into the following sections:\r\n\r\nCamera perspective and viewing direction\r\n\r\nVisible objects and machines (including their position in the image)\r\n\r\nPeople (if visible: position, clothing, activity – only what is visible)\r\n\r\nEnvironment (indoor/outdoor, hall, ground, walls, doors)\r\n\r\nNotable features or potential obstacles\r\n\r\nVisual limitations (darkness, occlusion, image noise)\r\n\r\nUse neutral, technical language.",
+      "model": "gpt-4o-mini",
+      "params": {
+        "temperature": 0.1,
+        "max_tokens": 400
+      },
+      "output_text": "### Camera Perspective and Viewing Direction\nThe camera is mounted on a tractor, positioned to capture a view from the front. The viewing direction is primarily forward, with a slight downward angle.\n\n### Visible Objects and Machines\n- **Tractor**: The front of the tractor is visible, specifically the hood and part of the engine compartment.\n- **Garage Door**: A large, partially open wooden garage door is visible on the left side of the image.\n- **Roll-up Door**: A metallic roll-up door is visible on the right side of the image.\n- **Buckets**: Two white buckets are positioned on the ground near the center of the image.\n- **Tools**: Various tools and equipment are visible leaning against the wall, including a shovel and a container.\n\n### People\n- **Not clearly recognizable**: No people are visible in the image.\n\n### Environment\n- **Indoor**: The setting appears to be an indoor garage or storage area.\n- **Ground**: The ground is concrete and appears to be in a relatively clean condition.\n- **Walls**: The walls are made of brick, with some visible wear.\n- **Doors**: The wooden door is partially open, while the roll-up door is closed but has a gap allowing light to enter.\n\n### Notable Features or Potential Obstacles\n- **Light Gap**: The gap in the roll-up door allows light to enter, indicating an outdoor environment beyond.\n- **Tools and Equipment**: The tools leaning against the wall may present a potential obstacle if movement is required in that area.\n\n### Visual Limitations\n- **Lighting**: The image appears to have adequate lighting, but shadows may obscure some details.\n- **Occlusion**: The view is partially obstructed by the tractor itself and the tools against the wall.\n- **Image Noise**: There is minimal image noise, providing a clear view of the visible objects.",
+      "tokens_in": 14335,
+      "tokens_out": 387,
+      "created_at": "2026-02-27T15:27:21.445421Z"
+    },
+    {
+      "project_id": 1,
+      "image_id": 45,
+      "run_id": 45,
+      "filename": "__zed__zed_node__right_raw__image_raw_color__compressed-1753366515565333120.webp",
+      "sha256": "e54f45c4b79f6e0e890667a9e5d9f1fbf452addfbc4bd805d3e04783e601e6b3",
+      "storage_path": "./data/uploads/e54f45c4b79f6e0e890667a9e5d9f1fbf452addfbc4bd805d3e04783e601e6b3___zed__zed_node__right_raw__image_raw_color__compressed-1753366515565333120.webp",
+      "prompt": "You are a technical observer operating within the context of an agricultural project.\r\n\r\nYour task is to describe images captured as part of this project objectively and precisely from the perspective of a camera mounted on a tractor.\r\nDescribe only what is clearly visible in the image.\r\nDo not make any assumptions about intentions, states, or future events.\r\nIf something is not clearly recognizable, explicitly write “not clearly recognizable”.\r\n\r\nStructure the description into the following sections:\r\n\r\nCamera perspective and viewing direction\r\n\r\nVisible objects and machines (including their position in the image)\r\n\r\nPeople (if visible: position, clothing, activity – only what is visible)\r\n\r\nEnvironment (indoor/outdoor, hall, ground, walls, doors)\r\n\r\nNotable features or potential obstacles\r\n\r\nVisual limitations (darkness, occlusion, image noise)\r\n\r\nUse neutral, technical language.",
+      "model": "gpt-4o",
+      "params": {
+        "temperature": 0.1,
+        "max_tokens": 400
+      },
+      "output_text": "**Camera perspective and viewing direction:**\n\n- The camera is mounted on a tractor, facing forward.\n\n**Visible objects and machines:**\n\n- The top of a green tractor is visible in the lower center of the image.\n- A large, partially open wooden door is on the left side of the image.\n- A closed metal roll-up door is on the right side of the image.\n- Several buckets and a piece of machinery are located near the wooden door on the left.\n\n**People:**\n\n- No people are visible in the image.\n\n**Environment:**\n\n- The setting is indoor, likely a garage or storage area.\n- The ground appears to be concrete.\n- Walls are made of brick or similar material.\n\n**Notable features or potential obstacles:**\n\n- The partially open wooden door may serve as an entry or exit point.\n- The closed metal roll-up door could be an obstacle if movement is required in that direction.\n\n**Visual limitations:**\n\n- The image has some darkness, particularly in the upper areas.\n- No significant occlusion or image noise is present.",
+      "tokens_in": 593,
+      "tokens_out": 216,
+      "created_at": "2026-02-28T16:20:03.374253Z"
+    }
+  ]
+}
