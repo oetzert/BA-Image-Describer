@@ -1,3 +1,4 @@
+- requirements.txt installieren
 
 - Backend starten (auf api-terminal tab):
     uvicorn app.main:app --reload
